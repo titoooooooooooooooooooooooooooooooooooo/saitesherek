@@ -2,65 +2,65 @@
 <recompensas>
     <pirata>
         <id>	1	</id>
-        <nome>	Gol D. Roger	</nome>
+        <nome>	Burro	</nome>
         <recompensa>	5.564.800.000	</recompensa>
-        <alcunha>	"Rei dos Piratas"	</alcunha>
-        <status>	Morto	</status>
+        <alcunha>	"Amigo Do OGRO"	</alcunha>
+        <status>	Vivo	</status>
     </pirata>
     <pirata>
         <id>	2	</id>
-        <nome>	Edward Newgate	</nome>
+        <nome>	Fiona	</nome>
         <recompensa>	5.046.000.000	</recompensa>
-        <alcunha>	"Barba Branca"	</alcunha>
-        <status>	Morto	</status>
+        <alcunha>	"Mulher Do OGRO"	</alcunha>
+        <status>	Vivo	</status>
     </pirata>
     <pirata>
         <id>	3	</id>
-        <nome>	Kaido	</nome>
+        <nome>	Rumpelstiltskin	</nome>
         <recompensa>	4.611.100.000	</recompensa>
-        <alcunha>	"Kaido das Feras"	</alcunha>
+        <alcunha>	"Enganou o OGRO"	</alcunha>
         <status>	Desconhecido	</status>
     </pirata>
     <pirata>
         <id>	4	</id>
-        <nome>	Charlotte Linlin	</nome>
+        <nome>	Doris	</nome>
         <recompensa>	4.388.000.000	</recompensa>
-        <alcunha>	"Big Mom"	</alcunha>
+        <alcunha>	"Donzela"	</alcunha>
         <status>	Desconhecido	</status>
     </pirata>
     <pirata>
         <id>	5	</id>
-        <nome>	Shanks	</nome>
+        <nome>	Encantado	</nome>
         <recompensa>	4.048.900.000	</recompensa>
-        <alcunha>	"Shanks, o Ruivo"	</alcunha>
+        <alcunha>	"O Loiro"	</alcunha>
         <status>	Vivo	</status>
     </pirata>
     <pirata>
         <id>	6	</id>
-        <nome>	Marshall D. Teach	</nome>
+        <nome>	Lorde Farquaad	</nome>
         <recompensa>	3.996.000.000	</recompensa>
-        <alcunha>	"Barba Negra"	</alcunha>
-        <status>	Vivo	</status>
+        <alcunha>	"O Ditador"	</alcunha>
+        <status>	Morto	</status>
     </pirata>
     <pirata>
         <id>	7	</id>
-        <nome>	Dracule Mihawk	</nome>
+        <nome>	Gato De Botas	</nome>
         <recompensa>	3.590.000.000	</recompensa>
-        <alcunha>	"Olhos de Gavião"	</alcunha>
+        <alcunha>	"BOTAS"	</alcunha>
         <status>	Vivo	</status>
     </pirata>
     <pirata>
         <id>	8	</id>
-        <nome>	Buggy	</nome>
+        <nome>	BuggyHumpty Alexandre Dumpty.	</nome>
         <recompensa>	3.189.000.000	</recompensa>
-        <alcunha>	"O Palhaço"	</alcunha>
-        <status>	Vivo	</status>
+        <alcunha>	"OVO"	</alcunha>
+        <status>	Desconhecido	</status>
     </pirata>
     <pirata>
         <id>	9	</id>
-        <nome>	Monkey D. Luffy	</nome>
+        <nome>	SHREK	</nome>
         <recompensa>	3.000.000.000	</recompensa>
-        <alcunha>	"Chapéu de Palha"	</alcunha>
+        <alcunha>	"OGRO"	</alcunha>
         <status>	Vivo	</status>
     </pirata>
     <pirata>
