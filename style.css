@@ -12,8 +12,8 @@ body{
 }
 
 .foto{
-    height: auto;
-    width: 300%;
+    height: 300px;
+    width: 95%;
     margin: 0 auto;
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
